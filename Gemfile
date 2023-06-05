@@ -77,3 +77,5 @@ gem "faraday"
 gem "figaro"
 gem "slack-ruby-client"
 gem "async-websocket", '~> 0.8.0'
+gem 'oauth2'
+gem 'omniauth-slack'
